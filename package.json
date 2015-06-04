@@ -1,0 +1,28 @@
+{
+  "name": "instyle",
+  "version": "0.0.1",
+  "description": "convert css to react.js style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/demohi/instyle.git"
+  },
+  "keywords": [
+    "react-native-css",
+    "react-css",
+    "react-native-style"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/demohi/instyle/issues"
+  },
+  "homepage": "https://github.com/demohi/instyle",
+  "dependencies": {
+    "css-parse": "^2.0.0",
+    "lodash.camelcase": "^3.0.1"
+  }
+}
